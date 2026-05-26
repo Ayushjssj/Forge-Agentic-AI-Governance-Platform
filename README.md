@@ -1,4 +1,4 @@
-# 🛡️ Forge — Agentic AI Governance Platform
+# 🛡️Forge — Agentic AI Governance Platform
 
 Forge is a production-grade Agentic AI Governance and Security Platform designed to simulate, observe, secure, govern, and deploy AI agents safely.
 
@@ -305,17 +305,14 @@ http://localhost:3000
 ---
 
 ## 👨‍💻 Built By
-
 ### Ayush Pandey
-
-#### • GenAI Engineer 
-#### • AI Security Developer 
-#### • Agentic AI Developer
+• GenAI Engineer 
+• AI Security Developer 
+• Agentic AI Developer
 
 ---
 
 ## 📜 License
-
 This project is licensed under the MIT License.
 
 Unauthorized copying, reproduction, or redistribution of this software
@@ -324,9 +321,7 @@ without permission may constitute copyright infringement.
 ---
 
 ## ⭐ Support
-
 If you like this project:
-
 - ⭐ Star the repository
 - 🍴 Fork the project
 - 🛡️ Build safer AI systems
