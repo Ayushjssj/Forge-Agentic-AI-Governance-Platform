@@ -306,7 +306,11 @@ http://localhost:3000
 
 # 👨‍💻 Built By
 
-## Ayush Pandey — Agentic AI Developer • GenAI Engineer • AI Security Developer
+## Ayush Pandey
+
+### • GenAI Engineer 
+### • AI Security Developer 
+### • Agentic AI Developer
 
 ---
 
