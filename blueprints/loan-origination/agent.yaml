@@ -1,0 +1,12 @@
+name: loan-origination
+description: Loan application assistant for retail banking
+model: openai:gpt-4o-mini
+compliance:
+  pii_guardrail: true
+  hallucination_check: true
+tools:
+  - check_eligibility
+  - fetch_live_rates
+  - submit_application
+max_tokens: 1200
+temperature: 0.1

@@ -1,0 +1,16 @@
+{
+  "name": "forge",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:sim": "cd apps/sim && uvicorn main:app --reload --port 8000",
+    "dev": "concurrently \"npm run dev:web\" \"npm run dev:sim\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
