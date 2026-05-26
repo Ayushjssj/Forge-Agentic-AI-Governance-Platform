@@ -306,8 +306,8 @@ http://localhost:3000
 
 ## 👨‍💻 Built By
 ### Ayush Pandey
-• GenAI Engineer 
-• AI Security Developer 
+• GenAI Engineer<br> 
+• AI Security Developer<br>
 • Agentic AI Developer
 
 ---
