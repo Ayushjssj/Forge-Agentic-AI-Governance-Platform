@@ -1,0 +1,11 @@
+node_modules/
+.next/
+venv/
+.env
+.env.local
+*.db
+*.log
+__pycache__/
+*.pyc
+.prisma/
+.DS_Store
