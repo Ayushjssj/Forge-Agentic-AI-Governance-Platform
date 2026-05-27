@@ -315,7 +315,7 @@ http://localhost:3000
 ## 📜 License
 This project is licensed under the MIT License.
 
-Unauthorized copying, reproduction, or redistribution of this software
+Unauthorized Copying, or Redistribution of this Software
 without permission may constitute copyright infringement.
 
 ---
